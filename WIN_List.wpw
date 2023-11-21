@@ -1,0 +1,400 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_List
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_List
+ identifier : 0x26c32ec103e7221d
+ internal_properties : CAAAAAgAAADqLZMvWBqc27XunU+ZvjX1Z9eOPBDmU8P49hCXnHxV6MefyguQ54oBNBtz3WlJIy6v7lyBqcrXh1K5cr3Fcbq8VGrogYEmtzZWryMSNJXQJX1k+EK0HtG/wxLO0DcBYEL/S52SPJRVeaXk9yFCnZtOMDgRYW1JsyTsFDMX88bUdvsSTwIxcaw+3+JurAbVXOmcGBv1An2ZSeIJ1u7ym9NAIDdaKKUwKCKZQg7C8U9A3pHcejLRyzZpqU2rybNmxsrOoB/3D44VRRbw4nHQ1hw+jwJ/yF7CO9TkS8lm4PFnxbkAu4qYXCyOn+iN0/tXA+tNVKwGM3ppGcnvP1zB4ZmnnbiSnswF6eICWHKtzU9EJzrvlXCHpWcEmltHMF+iifq0xRnh00m2XGNpmRsElX6V/PtnGTTCa0iLSgwe+bHcdebmkkRoQRm0E3A1iyAATBngn2VDFno0h1vnz7xCvtg2++vXcVj6HPuvK17y6zvWcsHKVoDekCPOfAf66GpqZ2C969HH6iit8HFWyKt3c3KJFJlqUjBsm6FGJMTOFnnfPfCNCYFEKGKaVzTyPi7ebLlpKV/keBE8+BAdubio0EhQkzBVctVvqWQp0aq6TcEwyAXEa3DcUAqBg8niqjlyi0BfNmbdu55LtIzkJq9xNRniIb2MsgDb71fMu0aAjwdMmR5FFAHExBYWC7K/O8TXriYuEbdmH1lvPOqBMwULuBESnHhIRaw9y1o=
+ properties :
+  width : 320
+  height : 407
+  heightMin : 471
+ controls :
+  -
+    name : LOOP_Tasks
+    identifier : 0x26c32ec103ec221d
+    internal_properties : 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
+    properties :
+     x : 16
+     y : 16
+     width : 288
+     height : 380
+    controls :
+     -
+       name : STC_Name
+       identifier : 0x26c32ec103f0221d
+       internal_properties : CAAAAAgAAAC1n9eL8D3LYW69ADE3wPmuikQmtMR0xk8ocpzR+rsC6JapC6Lkq95RCDdTQSixSSh4NXwsaL9ZzDkygHoEwxb/aOlQgI7rxPezKcZQn9WkTkFiGrWh4SzBrYtASE2cq5bjL23Um9odOvt9TW71W8y1A9GBXnG2u2azhBcHQU4cUXcHs7chwLd3H3izdghPc9Q82Hj+KvKx9v4bzFwbiZ3Ewgk84pfG375u82M/S1QucX3sFJVfnm2PbSF8r/q2lXzIlSwb6nMA156H+utwjpk3vBwP2uyEEWLgDEpEBCU5oVpXTyT5rMQgGLoSR2DQ9tPmPHa7LVzZolJ9RIWTvr0aX9RV7Deb40ij2zCgSngf6NHJIpyB+rbnsV3BLC2Bm0VdpBCc0hVpCI2Nid7o6/tIyuKoDOAYZ6bPjwZNLz7Dn1tJQsrQSFJkYMdZn67jrT0MmHdVjeQJrpEoP7oxWp1qA2JcE63URBi1sJ1FkZop54k0F8iIsPFvcAhpcg==
+       properties :
+        x : 26
+        y : 14
+        width : 208
+        height : 21
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : CBOX_Performed
+       identifier : 0x26c32ec103f1221d
+       internal_properties : CAAAAAgAAAD9eQbmTeVVYy3bcIZISo6jlOCFEIurhPw4sJSoq9WzCFBFnjW+B0doiYZravvVPDHqDoLud/NA/Sez31UorVWYsCcx6nfieG+Bvm9nG8IzXgWOERzk0HZWBA4CfVs230MpTK4EkQqtFn0jI2XhSI94ARetXjAt5t9sapn0Ohnmv7tV2IWUSol9ZLXPftVK1umt4QRNWpAFsc8SZGA6p+Teq7IQqfoGpPYZylz/+vlAJRO1bsit5VfI0OPURtvOeoa3arLEolRnKJaTf6rSvLy41SHgeXIQsQqip+sb5uim6+97b/l7cRSlKIO8xWe21+fPs+Vkcjc0KANxFPerb7PvBh4vqGtfw8bwoil3uiiqvk+vkrRcuFGk7Z725QBUKzjutU92WXyfBKY0fLlBo/AE2ERlXSNI6ugtUYnlZkkILM7s/TaqxsGw4+9bBnjBMX0YZB8pAe9wcDc8zHjI5QIAzbbBgR4VPp5aDUg451b7Zamv5VWJN3q5sG6Fw08DYaRqOiEk/MaTZp5p5AThBAaw7nECTX9Pwxi37t/MubYExYD1JKfrygL+xj/8WQM8knWYNF0TQ4tDCZZCkCoyBLP2YjcitRP4YuVwgFqPmdHcUFGam0yhaLZB0yW8xlyghD/DHDjUkPWxqibeKQJ1XsMMFM8t2mew5SOiKVDoUWxyn+S3FgWsNk0SPBo7BlgWe40RZL04bmcH2DaKgGJmNEzZR/qQGsSv7gVo6+eXxGLU8cIVZM9APmYHJN7tlAmPeertysm4wMnvqNLQ4frmQ9X1W0bPuAiJgC4bIBaQBdcRmMXAbX74I5Rt9JHqFEWOPRnS0phIoDcXWpLQxrwHLD7zELSbWxemwTy7dWhDN05PfwRGZ/o/Ra/8DVO/LwS8g+6U1f6HgNs/5PE6j3Iucc8wnBiLcezIFi7c31j2SJFa1qu5Guln99G7MInStjXGfKhY/1rVYv7K+hlwpuHcgN1lmg9ocNcRUOAEQ6mt/xE5GYwxTcV3VBIY4An49JobQDsymH/X25Rym1gzUHzk
+       properties :
+        x : 233
+        y : 6
+        width : 37
+        height : 37
+       options :
+        -
+          internal_properties : CAAAAAgAAAB+NMU0zwGmROE1lfzvo5d9vlYdfVbapoS0QjYADvHo+ZrhglCj8SwpRlwnZe0q95EJwryOFjmudcLyb1y+rpPlLTMiGEYxkPXpNeCB27C4nV4SfBxjiHT1wikJ8BjIZyZMOvxt2Q==
+       type : 5
+       controls : []
+       code_elements :
+        type_code : 5
+        p_codes :
+         -
+           code : |1-
+            
+            ATT_Performed = NOT ATT_Performed
+            Task.Performed = NOT Task.Performed
+            HModify(Task)
+           type : 17
+    columns :
+     -
+       name : ATT_ID
+       identifier : 0x26c32ec103ed221d
+       internal_properties : CAAAAAgAAADGlXHjTTurAkSDJWYDQ0aOVekBzLVBvjftTXEb5clZbku//dxno9VhEFNuaJPQC6BsTJfIUDtyCfx0DFbbrZHADIvRtEuIPB4Zt7vMSnlCnTMTJIjOVUvrwI5g68aoKwLkTc+2H04b6z4RJz24Y1mrjwei3auAst4PPYXT5PL7XOnLQw==
+       type : 3
+       content :
+        identifier : 0x2557a4cf01201698
+        internal_properties : CAAAAAgAAADryTcE1wdYvD3vRXveAy878MY0tBGVtRJFCKec9ONjoMSjdXko/BUQ7/aa5td4J0QGwbNDZ7u6HVAmFeJiKUW3AIZke7mPEa6O3T80XKwyKxqdz/+IMzq1H7wKTkmLCftmXeih3L2wxA9F34R1rzMUewXfPfNhH+yFL0Z0QK0+gscBykmAbH8+KcjlpZVlWXf1O2O2UpXFTj2e+Oh2XQ==
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+     -
+       name : ATT_Name
+       identifier : 0x26c32ec103ee221d
+       internal_properties : CAAAAAgAAAAnUo8ZBJL4FrLkrYfflChTaHWbWFwBmB/scunqKfWndmiuqmxNTwCbnA8t1ITA/Ljc8ZSvvGPQhMoOT4MSzXR2mXJwac0bYU14B11apCXl1ZpAO8+2l9uYtEJF2mxCzKh5pDETW3DT6alLt8h0buWxcDJnlFDUWQInLkwxmQbMKzKzIN/IFgHyTbQ5AW4OgvoGLbIBHLc=
+       type : 3
+       content :
+        identifier : 0x2557a4cf01221698
+        internal_properties : CAAAAAgAAADryTcE1wdYvD3vRXveAy878MY0tBGVtRJFCKec9ONjoMSjdXko/BUQ7/aa5td4J0QGwbNDZ7u6HVAmFeJiKUW3AIZke7mPEa6O3T80XKwyKxqdz/+IMzq1H7wKTkmLCftmXeih3L2wxA9F34R1rzMUewXfPfNhH+yFL0Z0QK0+gscBykmAbH8+KcjlpZVlWXf1O2O2UpXFTj2e+Oh2XQ==
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+     -
+       name : ATT_Performed
+       identifier : 0x26c32ec103ef221d
+       internal_properties : CAAAAAgAAABrpWst9n2ozLsW9mAOxexXpNPf3KamKidnJ+JuQvloEvH+0+YCjjNFXd/MDie9w/FCWKJhN4j2jjUzQwMrTbhrs24tFVTbekLMUC+WLFhzPr+2gqRyLVOtpSNC8YTLOCWiWLeCA2AzqcEc/y3oBopSB/QA87GM27jKMihgWdOZLu7m6JcDtuAeSTkity1V4kkyjk8TBDqdiaM=
+       type : 3
+       content :
+        identifier : 0x2557a4cf01241698
+        internal_properties : CAAAAAgAAADryTcE1wdYvD3vRXveAy878MY0tBGVtRJFCKec9ONjoMSjdXko/BUQ7/aa5td4J0QGwbNDZ7u6HVAmFeJiKUW3AIZke7mPEa6O3T80XKwyKxqdz/+IMzq1H7wKTkmLCftmXeih3L2wxA9F34R1rzMUewXfPfNhH+yFL0Z0QK0+gscBykmAbH8+KcjlpZVlWXf1O2O2UpXFTj2e+Oh2XQ==
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+    type : 30
+    code_elements :
+     type_code : 42
+     p_codes :
+      -
+        code : |1-
+         
+        type : 14
+      -
+        code : |1-
+         
+         STC_None..Visible = False
+        type : 21
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+      -
+        code : |1-
+         
+         ATT_Performed = NOT ATT_Performed
+         Task.Performed = NOT Task.Performed
+         HModify(Task)
+        type : 33
+      -
+        type : 230
+        enabled : false
+      -
+        type : 241
+        enabled : false
+      -
+        code : |1-
+         
+         SavePositions()
+        type : 17
+      -
+        type : 101
+      -
+        type : 102
+  -
+    name : STC_None
+    identifier : 0x26c32ec103f3221d
+    internal_properties : CAAAAAgAAADkL6YZj5gBoe808c1buJlH/M/qs6ggqXBFxxqM3VQbvWR7pb8g5QeXaCp6SZgJf8l8T83kIHcczXcVDD/uBPPHYFCQpSzoq+6hSZHOUZ5+nefr291vO7ZcV2VN/HF8S3ckuHuIV0rozYsLKUnduIiq67iC3TD8KXlZ0eK64lwYroZMLpTLAd0Qza6A7Z8wrAG8x58VZOHHGJN07a6KPadJShKbqb9wFwLLu+YA4zJ1G2aqL3LZzmEr0wL7ppZtQLd1jaxP0CjixAekIWAzpX/CL1sQzHeXC5V2WGdXSN/iF0qHdkAItFPjZqjvlH7R5fP/9ld5J6CqWoi3i2Amn+3lL2GnBWiZcH+V/nrB4qP59wzfvgaoEvoATD53UcVP20vPzFI0R5kvnYvgggcKZkc98JBYYTa+NOTAsK18d0lL8ZSZDtZZ864LA2VlzQrSschyGq3+0jdxeJhRtYJDEXALAR3OQnjoaojJp+p7fl//H7yOCTch6yCjQD/q0TG5nfFg
+    properties :
+     x : 38
+     y : 195
+     width : 245
+     height : 20
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x26c32ec103f8221d
+  internal_properties : CAAAAAgAAAASRWXizD2cie1S5mpLcXl4nKDpFsaeTjlmToBgtJNKRyyndTUpKR6yLlRy6L3/sKStQplucnV15E823tO/IfkxVUUIOY5sS/vUvGy0o2N8o4O/G48NTX+FkHvKZicJojx9igVQgWOiMsBTr+AWlElnpnaUP/Jpi0Md6rL7TH+uMYdVgS8f5+JRWTt8+FEz9f4uLi/+iwNkqMeJYLTDGy3S8apIh+WPMNU7MFNJ1RiZCWEr+ZkUlocqyvG9kEIqhfYIlE6XD6gOSHx4CNk/ZXQ9pcFce2oxzYykinDJCGLtDg==
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x26c32ec103f4221d
+  internal_properties : CAAAAAgAAAAW1gnpy3noas3oG9zuXMxwkZr3JLeoYBVyeA3OKrGpbG8hUZFR3efjg9zXdvbkP3LOwZ4El+W+yh/BGkQoIMQZoZFhas7dNoK2s3zggks/85ETaI984McgHKWWQaYgHOHVWR2GVBXbwNvaP2ycm4Atn3CujyNLKHh/advQBBA/SjyBGhlS+OVu+5TE1UBpYuTyoMQSz+WQI84se2WdSbgsP+46Rqg+kP3nqD2BlYQgQ/0OVhmkbMPaynkAR9GXiUaW7GJI29Zvzbs1MN1yglvg1H3vemeWKxvW/9SKChIdFRPIVMDPwBAkLg==
+  options :
+   -
+     name : OPT_New
+     identifier : 0x26c32ec103f5221d
+     internal_properties : CAAAAAgAAAAbLSvFOQNQ6jbmvhX00w5Ywh316nuX+8ugQ5yFFds6avezApV+2zA7guLeu5AbCv5tWzG4HkGM94o+9T4rr6nwcbBYQcPM43gDpQy67G6mxCiCTIJ+mog490fo1dIkuAYumBcojV7QL39xisENxrggYFxS0hwJ0FpQbmj6vvrX6aDbVUiuJscMaugd0FWETU+eDC28mHQ2qsEIWfN9sWXdupPrW9e00AHzeYiDNlgDs5qX3tsLmCyL9xwY+p+RFCdsTieSEh88u1WuywoXjeVEpF7zVIu5j31qEFJhLekKUG+tDq06kDYraAPhlsN43JJe+g==
+     code_elements :
+      type_code : 26
+      p_codes :
+       -
+         code : |1-
+          
+          NewTask()
+         type : 32
+  code_elements :
+   type_code : 26
+   p_codes : []
+ popup_menus :
+  -
+    name : MENU_Task
+    identifier : 0x26c32ec103f6221d
+    internal_properties : CAAAAAgAAACk8J4WfQmwzoJEU4WU7LSiBiVxvDL3A5WetnbHcnBTkX7QNoja98nUPn4C56QlvVAvYMcLvbH6+i/VM7htsAyNqfexZ6V2Pu9a2kMBZSs5BBXxhFFaQXaS6sbYQV+9gIl5NR2gk+6p8r9mfPsit6K72wXgObTnTOrjdBJhlXg+gDhGrD5Dc2Rzy58ebOkBlCgQjrBBYSnjW1DSmQNu8axLCtHwnLwYnrzytJJptlCSER5erGVXlPsVs2l5KqmEk9a/cQBPv/jXWDWEyfY3ljcN0paiPE2x/UjYL0liODmujmhjtu1mKOKqU7DRRHnDFKtLk/ZlYu6/Lv0DIj+ldeFHrstIGyxEWAAp+gzxS+i8Zbvq92qbDj7394HhK1yZCR2TNWj8xLnvtVGtd9U9
+    options :
+     -
+       name : OPT_Rename
+       identifier : 0x26c32ec103f7221d
+       internal_properties : CAAAAAgAAAAYRg3Kixjl5/zAfKDp73OMd+QDADKmV68dg42L+IBtMhmPcWqyMeVttqisTjmPGDuE+zDXSKWlyzoagYKG5CLGVrigGLHACwXXjgjbeGAC9tuDxW5Sygb2mIVIvagrn2QBDW63nkUAU6Qf1qyCEYTdJYJngVkaRiceLuVGty9ON3aBUNkUOloHHG4iFWnPgHTmD3HW1SrMMsbMFD8aRpxCGBp990GQJZF8SLLSI7vQIUYsncRU8Df9+DWwjXuPYg6zhqtByLfbJOb3hOYnIkbaBX58MUxJjVUMoDJQ2kawiSVG1V7QvSGlGAB4LdhkOnvELAzWPSWLJN/g6NAZJ89PaoC373lvREMxPar8Cg68c8qJ2Uq8CvIgL3EHa/H1fWV/gQRgrCx7
+       code_elements :
+        type_code : 26
+        p_codes :
+         -
+           code : |1-
+            
+            EditTask(ATT_ID)
+           type : 32
+    controls : []
+    code_elements :
+     type_code : 26
+     p_codes : []
+ languages :
+  - en-GB
+ message_bar :
+  internal_properties : CAAAAAgAAABtUh9N5Aj2nvTHJfX0YNBjUYf6HZVnIvA40mp0U79pEw12F/U6rAvP/cHm1SBpM74AjKC72GodmVXcRks+Gl4wAeMEbmWMhJh0KMDyu2Sss7naqoe5qjcaMyQs
+ code_elements :
+  internal_properties : CAAAAAgAAAD0Z8ZnET9D/rAil7OAps2JdC0WSaAtS0ScPvovgKgcZiDl1PMBNkfYtQ069tWD4VXeVWHsZpX3j0qzdQ08COGeEPh2
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      
+      PROCEDURE WIN_List(gnListID is int)
+      
+      // Displays the name of the list
+      MyWindow..Title = List.Lastname
+      
+      // Filter the tasks
+      HFilter(Task,ListID,gnListID)
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      // Saves the position of the tasks
+      SavePositions()
+     type : 2
+   -
+     code : |1+
+      
+      
+     type : 11
+   -
+     type : 12
+   -
+     code : |1+
+      
+      
+     type : 17
+   -
+     code : |1+
+      
+      
+     type : 13
+  procedures :
+   -
+     name : EditTask
+     procedure_id : 1640206095770067485
+     type_code : 14
+     code : |1+
+      
+      // Summary: Edits a task
+      //
+      PROCEDURE EditTask(nTaskID is int)
+      
+      sName is string
+      
+      HReadSeek(Task,TaskID,nTaskID)
+      
+      IF HFound(Task) THEN
+      	sName = Task.Lastname
+      	
+      	//1: OK
+      	//2: Cancel
+      	SWITCH Input(<§?10A4B88F00354B88§>,sName) 
+      		// OK
+      		CASE 1
+      			IF sName <> "" THEN
+      				// Edits the task
+      				Task.Lastname = sName
+      				HModify(Task)
+      				
+      				LooperDisplay(LOOP_Tasks,taReExecuteQuery)
+      			ELSE
+      				Error("Enter a name for the task.")
+      			END
+      		// Cancel
+      		CASE 2
+      			
+      	END
+      END
+     type : 458752
+   -
+     name : NewTask
+     procedure_id : 1640206095770133021
+     type_code : 14
+     code : |1-
+      
+      // Summary: Creates a new task
+      //
+      PROCEDURE NewTask()
+      
+      sName is string
+      
+      //1: OK
+      //2: Cancel
+      SWITCH Input(<§?10A4B88F00354B88§>,sName) 
+      	// OK
+      	CASE 1
+      		IF sName <> "" THEN
+      			// New task
+      			HReset(Task)
+      			Task.Lastname = sName
+      			Task.ListID = List.ListID
+      			Task.PositionLPR = LOOP_Tasks..Occurrence + 1
+      			HAdd(Task)
+      			
+      			LooperDisplay(LOOP_Tasks,taReExecuteQuery)
+      		ELSE
+      			Error("Enter a name for the task.")
+      		END
+      	// Cancel
+      	CASE 2
+      		
+      END
+     type : 458752
+   -
+     name : SavePositions
+     procedure_id : 1640206095770198557
+     type_code : 14
+     code : |1-
+      
+      // Summary: Saves the order of the tasks
+      // 
+      PROCEDURE SavePositions()
+      
+      // Modify the position of the list in the database
+      FOR i = 1 _TO_ LOOP_Tasks..Occurrence
+      	HReadSeek(Task,TaskID,LOOP_Tasks[i].ATT_ID)
+      	IF HFound(Task) THEN
+      		Trace(Task.Lastname + " " + i)
+      		Task.PositionLPR = i
+      		HModify(Task)
+      	END
+      END
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACZEK2P//Lxrdy92HyKvgDl3B8PdeDIntjc9JDb8ta4DdP8qqFSYuDv1hG1cjsutciRRSEtPfByFU2VSJen75Uy6cR8xECT/6Tq5EIze3WsErDvFePtMKFHsRTOUpg4s/zLs2KKvg==
+  original_name : FEN_Fenêtre1
+resources :
+ string_res :
+  identifier : 0x10a3702e00124bd0
+  internal_properties : CAAAAAgAAACZEjEk9ePFZOo+39SDkDJRBhrPU5L8MGNkyQkX/peSMADIgmGIamrQQ4iQ
+ dialogs :
+  -
+    identifier : 0x10a4b88f00354b88
+    internal_properties : CAAAAAgAAAByLmBOiDGYjtqgocM0vupbiD/7Le+i00pUN0QjwLN7/A==
+    label :
+     fr-FR : "Nom de la tâche :"
+     en-GB : "Name of the task:"
+    image : {}
+    cancel_button : 1
+    buttons :
+     -
+       label :
+        fr-FR : OK
+        en-GB : OK
+       image : {}
+       value : 1
+     -
+       label :
+        fr-FR : Annuler
+        en-GB : Cancel
+       image : {}
+       value : 2
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
